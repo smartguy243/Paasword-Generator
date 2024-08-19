@@ -28,7 +28,7 @@ The user specifies the password length and character types to be included.
 The program generates and displays a secure password.
 There's an option to copy the password to the clipboard.
 
-## Key Features
+## Features
 
 ```bash
 - User-friendly menu interface.
